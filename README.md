@@ -7,6 +7,7 @@ Uma família decidiu realizar um jogo de natal. As regras são as seguintes:
 - Cada participante recebe um número inteiro distinto, representando sua vez de jogar.
 - Em sua vez, o jogador tem duas opções, pegar um presente da pilha e revelar seu conteúdo, ou roubar o presente de um jogador anterior. Se um jogador tiver seu presente roubado, ele obrigatoriamente tem que pegar um outro presente da pilha.
 - O jogo continua até que o jogador com o último número tenha jogado.
+
 Suponha que **n** pessoas participam do jogo e seu número é **k**.
 
 **Qual é a melhor estratégia? É melhor tomar o presente de outro jogador ou escolher um da pilha? Como os outros participantes vão jogar?**
